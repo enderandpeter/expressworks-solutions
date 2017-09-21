@@ -1,0 +1,5 @@
+node_modules
+
+# Normally you would not ignore this, especially when working with projects that have
+# a package.json, which this project is not currently using.
+package-lock.json
