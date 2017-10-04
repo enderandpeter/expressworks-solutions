@@ -1,0 +1,9 @@
+{
+  "name": "stylish-css",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4",
+    "stylus": "0"
+  }
+}
